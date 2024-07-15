@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.blog-title-date-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.blog-title {
+  color: #12022f;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.blog-date {
+  color: #9aa5b1;
+  font-size: 20px;
+}
+
+.blog-desc {
+  color: #9aa5b1;
+  font-size: 20px;
+}
